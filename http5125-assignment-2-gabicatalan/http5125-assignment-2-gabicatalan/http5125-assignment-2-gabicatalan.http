@@ -1,0 +1,6 @@
+@http5125_assignment_2_gabicatalan_HostAddress = http://localhost:5045
+
+GET {{http5125_assignment_2_gabicatalan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

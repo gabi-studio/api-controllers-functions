@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|d:\\web development course\\backend c#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\controllers\\j3-secretinstructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|solutionrelative:http5125-assignment-2-gabicatalan\\controllers\\j3-secretinstructions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|d:\\web development course\\backend c#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\controllers\\j2-decoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|solutionrelative:http5125-assignment-2-gabicatalan\\controllers\\j2-decoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|d:\\web development course\\backend c#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\controllers\\j1-winningscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|solutionrelative:http5125-assignment-2-gabicatalan\\controllers\\j1-winningscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|d:\\web development course\\backend c#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\controllers\\j2-chilipeppers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|solutionrelative:http5125-assignment-2-gabicatalan\\controllers\\j2-chilipeppers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q5Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q8Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|d:\\web development course\\backend c#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\controllers\\j1-delivedroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A039FC-2DF8-4003-89F7-E81F3B3C642A}|http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan.csproj|solutionrelative:http5125-assignment-2-gabicatalan\\controllers\\j1-delivedroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "q8Controller.cs",
+              "DocumentMoniker": "D:\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q8Controller.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q8Controller.cs",
+              "ToolTip": "D:\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q8Controller.cs",
+              "RelativeToolTip": "..\\..\\..\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q8Controller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:36:38.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "j1-delivedroid.cs",
+              "DocumentMoniker": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j1-delivedroid.cs",
+              "RelativeDocumentMoniker": "http5125-assignment-2-gabicatalan\\Controllers\\j1-delivedroid.cs",
+              "ToolTip": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j1-delivedroid.cs",
+              "RelativeToolTip": "http5125-assignment-2-gabicatalan\\Controllers\\j1-delivedroid.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:35:52.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "j1-winningscore.cs",
+              "DocumentMoniker": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j1-winningscore.cs",
+              "RelativeDocumentMoniker": "http5125-assignment-2-gabicatalan\\Controllers\\j1-winningscore.cs",
+              "ToolTip": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j1-winningscore.cs",
+              "RelativeToolTip": "http5125-assignment-2-gabicatalan\\Controllers\\j1-winningscore.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:16:52.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "j2-chilipeppers.cs",
+              "DocumentMoniker": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j2-chilipeppers.cs",
+              "RelativeDocumentMoniker": "http5125-assignment-2-gabicatalan\\Controllers\\j2-chilipeppers.cs",
+              "ToolTip": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j2-chilipeppers.cs",
+              "RelativeToolTip": "http5125-assignment-2-gabicatalan\\Controllers\\j2-chilipeppers.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:20:06.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "j2-decoder.cs",
+              "DocumentMoniker": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j2-decoder.cs",
+              "RelativeDocumentMoniker": "http5125-assignment-2-gabicatalan\\Controllers\\j2-decoder.cs",
+              "ToolTip": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j2-decoder.cs",
+              "RelativeToolTip": "http5125-assignment-2-gabicatalan\\Controllers\\j2-decoder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:27:35.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "j3-secretinstructions.cs",
+              "DocumentMoniker": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j3-secretinstructions.cs",
+              "RelativeDocumentMoniker": "http5125-assignment-2-gabicatalan\\Controllers\\j3-secretinstructions.cs",
+              "ToolTip": "D:\\Web Development Course\\Backend C#\\http5125-assignment-2-gabicatalan\\http5125-assignment-2-gabicatalan\\Controllers\\j3-secretinstructions.cs",
+              "RelativeToolTip": "http5125-assignment-2-gabicatalan\\Controllers\\j3-secretinstructions.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:58:12.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "q5Controller.cs",
+              "DocumentMoniker": "D:\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q5Controller.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q5Controller.cs",
+              "ToolTip": "D:\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q5Controller.cs",
+              "RelativeToolTip": "..\\..\\..\\WebDevelopmentCourse\\api-controllers\\http5125assignment1gabicatalan\\http5125assignment1gabicatalan\\Controllers\\q5Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:45:17.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
